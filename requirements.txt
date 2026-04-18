@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+tensorboard
+nltk
+opencv-python
+kaggle
+jupyter
